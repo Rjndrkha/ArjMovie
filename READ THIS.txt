@@ -1,0 +1,9 @@
+Name : 1.Rajendra Rakha A.P
+       2.Ariono Septian Jaya
+
+Githup Link : https://github.com/Rjndrkha/ArjMovie.git
+Gdrive Full Code : https://drive.google.com/drive/folders/1JAgvjZNQW8wJDVYuSBIpB1ubbhxjEXTy?usp=sharing
+Link Website : https://arj-movie.000webhostapp.com/
+
+NB:
+To Login As Admin Use (username and password) admin
